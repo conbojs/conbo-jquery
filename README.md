@@ -1,7 +1,7 @@
 JQuery integration for ConboJS
 ==============================
 
-ConboJS 4 and above no longer require jQuery, but if you would still like to use the jQuery features that were integrated into previous versions, for example if you're upgrading a project that uses ConboJS 3, then this is the library for you.
+ConboJS 4 no longer requires jQuery, but if you're upgrading a project that uses ConboJS 3 then this add-on is designed to make your life easier during the transition by re-implement the most common jQuery properties, methods and shortcuts found in the previous version.
 
 The `conbo-jquery.js` library can be used as an AMD module, CommonJS or as a global, and once loaded will automatically add the following properties and methods to ConboJS:
 
