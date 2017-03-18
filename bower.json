@@ -1,0 +1,34 @@
+{
+	"name": "conbo-jquery",
+	"description": "jQuery integration for ConboJS",
+	"main": [
+		"./lib/conbo-jquery.js"
+	],
+	"moduleType": [
+		"amd",
+		"globals",
+		"node"
+	],
+	"license": "MIT",
+	"ignore": [
+		"demo",
+		".gitignore",
+		"bower.json",
+		"package.json"
+	],
+	"keywords": [
+		"conbo",
+		"jquery"
+	],
+	"authors": [
+		"Mesmotronic"
+	],
+	"homepage": "https://conbo.mesmotronic.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mesmotronic/conbo-jquery.git"
+	},
+	"dependencies": {
+		"conbo": ">=4.0.1"
+	}
+}
