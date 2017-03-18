@@ -1,0 +1,21 @@
+{
+	"name": "conbo-jquery",
+	"version": "1.0.0",
+	"description": "jQuery integration for ConboJS",
+	"keywords": [
+		"jquery",
+		"conbo"
+	],
+	"homepage": "https://conbo.mesmotronic.com",
+	"license": "MIT",
+	"author": "Mesmotronic",
+	"files": [
+		"lib"
+	],
+	"main": "./lib/conbo-jquery.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:mesmotronic/conbo-jquery.git"
+	},
+	"readme": "./README.md"
+}
