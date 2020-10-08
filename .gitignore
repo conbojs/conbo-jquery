@@ -2,3 +2,5 @@
 /demo/js/conbo.js
 /demo/js/conbo-jquery.js
 /demo/js/jquery.js
+/package-lock.json
+node_modules
